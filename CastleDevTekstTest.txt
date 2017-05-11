@@ -1,0 +1,25 @@
+Voice_GetCompressedData not called for 2843.1ms; manually advancing uncompressed sample offset and starting a new section
+Voice channel 0 circular buffer overflow!
+Voice channel 0 circular buffer overflow!
+Voice channel 0 circular buffer overflow!
+Voice channel 0 circular buffer overflow!
+Voice channel 0 circular buffer overflow!
+Voice channel 0 circular buffer overflow!
+Voice channel 1 circular buffer overflow!
+Voice channel 1 circular buffer overflow!
+Voice channel 1 circular buffer overflow!
+Voice channel 1 circular buffer overflow!
+Voice channel 1 circular buffer overflow!
+Voice channel 1 circular buffer overflow!
+Voice channel 1 circular buffer overflow!
+Voice channel 1 circular buffer overflow!
+Voice channel 1 circular buffer overflow!
+Voice channel 1 circular buffer overflow!
+Voice channel 1 circular buffer overflow!
+Voice channel 1 circular buffer overflow!
+Voice channel 1 circular buffer overflow!
+CColorCorrectionSystem: Missing ''
+CColorCorrectionSystem: Missing ''
+1627.68: Received voice channel= 1: section= 177 seq=      64 time=84150779 bytes=  64, timestamp moved backwards (89203) after synthesizing dropped packet.  Expected 0+0 = 0, received 84150779.
+
+just confirming and testing this shit yo
