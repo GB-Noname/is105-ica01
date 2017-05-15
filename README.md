@@ -1,5 +1,7 @@
 # is105-ica01
 
+
+https://github.com/GB-Noname/is105-ica01
 ### 1.2.3 Arbeid med git 
 hello.go 
 
@@ -14,6 +16,8 @@ Tor:
 Bastian:
 Ann M:
 
+
+https://github.com/GB-Noname/is105-ica01/tree/master/LogCalc
 
 Programmet bør buildes...
 
