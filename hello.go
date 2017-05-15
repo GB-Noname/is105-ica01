@@ -9,8 +9,8 @@ func main() {
 	fmt.Println("Heisann")
 	fmt.Println("Hahaha Adrian!?")
         fmt.Println("Bastian sier hei")
-	log2()
 	fmt.Println("heisann paa deisann")
+	log2()
 	var gitBash string = "Git Bash"
 	or := " or die trying"
 	fmt.Println(gitBash, or)

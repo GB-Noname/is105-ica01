@@ -1,4 +1,4 @@
-package main
+package LogCalc
 
 import "fmt"
 // Kunne ikke henvise til import av "log" pakke som ligger i samme mappe
