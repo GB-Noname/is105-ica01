@@ -10,6 +10,7 @@ func main() {
 	fmt.Println("Hahaha Adrian!?")
         fmt.Println("Bastian sier hei")
 	fmt.Println("heisann paa deisann")
+	fmt.Println("Nei nu må dere slutte- Ali")
 	log2()
 	var gitBash string = "Git Bash"
 	or := " or die trying"
