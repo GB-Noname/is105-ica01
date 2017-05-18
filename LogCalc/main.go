@@ -1,10 +1,10 @@
-package LogCalc
+package main
 
 import "fmt"
 // Kunne ikke henvise til import av "log" pakke som ligger i samme mappe
 // ./log henviser til search for pakker i mappen log
 // Se mappestruktur for klarifisering eller ask Tor
-import "LogCalc/log"
+import "./log"
 
 func main()	{
 
