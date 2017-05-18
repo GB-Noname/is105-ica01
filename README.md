@@ -24,9 +24,8 @@ Ann M: "Hello, ??"
 
 Har flytta filer fra gammel repo, er derfor man ikke kan se alle som har contributa på git
 
-https://github.com/GB-Noname/is105-ica01/tree/master/LogCalc
 
-Programmet bør buildes...
+https://github.com/GB-Noname/is105-ica01/tree/master/LogCalc
 
 4) log.go og utføres main.go 
 
