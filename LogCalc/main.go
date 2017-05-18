@@ -1,18 +1,16 @@
 package main
 
 import "fmt"
-// Kunne ikke henvise til import av "log" pakke som ligger i samme mappe
-// ./log henviser til search for pakker i mappen log
-// Se mappestruktur for klarifisering eller ask Tor
+
 import "./log"
 
-func main()	{
 
+func main()	{
 
 	fmt.Println("Initiating")
 
 	// InputReaders from terminal on number and base
-	// Calls the corresponding funcs for arithmics
+	// Calls the corresponding funcs for arithmetics
 	finish := false
 	for finish == false {
 
@@ -32,7 +30,7 @@ func main()	{
 	}
 	if inputVal == 10 {
 			fmt.Println("The answer from log10 from value:", logVal, "is", log.Log10(floatVal))
-// test
+
 	}
 	var exit string
 		 fmt.Println("Exit the app? Type yes to exit, no to keep caculating ")
