@@ -2,26 +2,28 @@
 
 
 https://github.com/GB-Noname/is105-ica01
+
 ### 1.2.3 Arbeid med git 
+
 hello.go 
 
 ### 1.2.4 Samarbeid i Git og Introdukjson i Golang
 
 2. hello.go
 
-Adrian: "Dette er meg- Adrian"
+Adrian Lorentzen: "Dette er meg- Adrian"
 
-Brage: "Heisann"
+Brage Fosso: "Heisann"
 
-Morten: "heisann paa deisann"
+Morten Schibbye: "heisann paa deisann"
 
-Ali: "Nei nu må dere slutte- Ali"
+Ali Al Musawi: "Nei nu må dere slutte- Ali"
 
-Tor: "Git Bash" - " or die trying"
+Tor Borgen: "Git Bash" - " or die trying"
 
-Bastian: "Bastian sier hei"
+Arne Bastian Wiik: "Bastian sier hei"
 
-Ann M: "Hello, ??"
+Ann Margrethe Ly Pedersen: "Hello, ??"
 
 Har flytta filer fra gammel repo, er derfor man ikke kan se alle som har contributa på git
 
